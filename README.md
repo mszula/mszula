@@ -1,6 +1,5 @@
 ## Hey There! 👋
 
-**I'm Mateusz** (yup, it could be hard to pronounce 😅) - I'm a 👨‍🔧 Senior Full-Stack Engineer with a focus on backend. Programming enthusiast with 10+ years of commercial experience.
-I have successfully completed many projects for clients from all over the world using various technologies, solutions, and design patterns. Retro consoles maniac. 🕹️
+**I'm Mateusz** (yup, it could be hard to pronounce 😅) - I'm a 👨‍💻 Experienced All-there-is Senior Full-Stack Engineer with a focus on backend development. Programming enthusiast with over 11+ years of commercial experience. Successfully completed numerous projects for clients worldwide, utilizing various technologies, solutions, and design patterns. Excel in soft skills, mentoring, and leadership roles. Retro consoles maniac. 🕹️
 
 ![My skills](https://skillicons.dev/icons?i=nodejs,ts,nestjs,express,js,prisma,kafka,mysql,postgres,mongodb,redis,rabbitmq,aws,kubernetes,docker,nginx,php,symfony,git,react,vue,html,materialui)
